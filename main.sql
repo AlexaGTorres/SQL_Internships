@@ -24,4 +24,10 @@ ORDER By organization;
 .print
 .print 'Software Developer Positions:'
 .print
-SELECT * FROM internships WHERE name = 'Software Developer'
+SELECT * FROM internships WHERE name = 'Software Developer';
+
+.print
+.print 'Delete not paid:'
+.print
+DELETE FROM internships WHERE is_paid = false;
+SELECT * FROM internships;
