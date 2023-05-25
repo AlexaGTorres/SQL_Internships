@@ -13,4 +13,4 @@ Assignment Requirements Bellow:\
 -2nd sort is implemented.\
 -1st query is implemented.\
 -2nd query is implemented.\
--Queries are output.\
+-Queries are output.
